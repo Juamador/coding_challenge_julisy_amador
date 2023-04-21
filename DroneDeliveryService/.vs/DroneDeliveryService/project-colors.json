@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db6bc2f0-f267-4c1a-a495-27f0f8303074": {
+      "ProjectGuid": "db6bc2f0-f267-4c1a-a495-27f0f8303074",
+      "DisplayName": "DroneDeliveryService",
+      "ColorIndex": 0
+    },
+    "73f4fb15-158a-4917-ad6f-56ab8770368f": {
+      "ProjectGuid": "73f4fb15-158a-4917-ad6f-56ab8770368f",
+      "DisplayName": "DroneDeliveryServiceTest",
+      "ColorIndex": 1
+    },
+    "4cb2aa54-c15d-4560-a348-ab905daff5c4": {
+      "ProjectGuid": "4cb2aa54-c15d-4560-a348-ab905daff5c4",
+      "DisplayName": "DroneServiceTest",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
